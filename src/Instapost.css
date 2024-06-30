@@ -1,0 +1,28 @@
+button{
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    background-color: rgb(26, 25, 29);
+}
+#main{
+   height: 400px;
+   width: 300px;
+   background-color: rgb(31, 29, 29);
+   border-radius: 5px;
+}
+#comments{
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    flex-direction: column;
+}
+input{
+    outline: none;
+    border: none;
+    background-color: rgb(75, 75, 75);
+    color: aliceblue;
+    padding-left: 25px;
+}
+#inputdiv{
+    display: flex;
+    justify-content: center;
+}
