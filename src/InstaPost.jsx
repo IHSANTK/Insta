@@ -14,6 +14,8 @@ export default function InstaPost(){
   }
 
   const settrues = ()=>{
+
+    console.log('ok');
     if(liketre===false){
       settrue(true)
     }else{
